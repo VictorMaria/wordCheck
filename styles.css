@@ -59,6 +59,7 @@ textarea {
 }
 p {
     width: 65%;
+    font-weight: bold;
 }
 #button {
     background-color: black;
