@@ -71,9 +71,9 @@ const check = () => {
         const div = document.getElementsByClassName('result');
         div[0].innerHTML = '';
         setTimeout(() => {
-        div[0].innerHTML = `Number of Characters: ${countCharacters(text)}<br>
-        Number of Words: ${countWords(words)}<br>
-        Number of Sentences: ${countSentences(words)}<br>
+        div[0].innerHTML = `Character count: ${countCharacters(text)}<br>
+        Word count: ${countWords(words)}<br>
+        Sentence count: ${countSentences(words)}<br>
         `}, 100)
 } 
 }
