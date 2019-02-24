@@ -1,0 +1,1 @@
+Word Check helps you with simple tasks on your texts such as character count, word count and sentence count.
