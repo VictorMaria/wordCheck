@@ -41,6 +41,10 @@ html, body {
           flex-direction: column;
           justify-content: center;
       }
+      .result {
+          font-weight: bold;
+          width: 70%;
+      }
   }
   
 .left {
